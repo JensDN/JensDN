@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jens DN
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jens 
 ===============================================================================================================================
 
 Web Developer
 -------------
 
-"Passionate developer coding since 2020, specializing in frontend with Angular and exploring other frameworks. Enthusiastic about backend technologies, especially Golang, to broaden my expertise."
+Passionate developer coding since 2020, specializing in frontend with Angular and exploring other frameworks. Enthusiastic about backend technologies, especially Golang, to broaden my expertise.
 
 * 🌍  I'm based in Belgium
 * 🖥️  See my portfolio at [CODEM8](http://codem8.dev)
